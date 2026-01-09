@@ -1,0 +1,702 @@
+[
+    {
+        "id": "3bc781cea6b9409993ae202dd1690c8b1638550496",
+        "REACTION": "BrC1=CC=C(N)C=C1.CC2=CC=C(S(=O)(Cl)=O)C=C2>C3=CC=NC=C3>BrC4=CC=C(NS(C5=CC=C(C)C=C5)(=O)=O)C=C4",
+        "RXN_ID": "CHEMIFY-0001",
+        "SCALE": "8.8 mmol",
+        "yield": "98 %"
+    },
+    {
+        "id": "3914aba0a0e14839a34b6b54b0a9e1fa1638550562",
+        "REACTION": "O=C(OC)CC(OC)=O.BrC/C=C(C)/C>[Na]OC>O=C(OC)C(C/C=C(C)/C)C(OC)=O.O=C(OC)C(C/C=C(C)\\C)(C/C=C(C)\\C)C(OC)=O",
+        "RXN_ID": "CHEMIFY-0002",
+        "SCALE": "20.0 mmol",
+        "yield": "56 %"
+    },
+    {
+        "id": "6c810d8949044cc6af5c352cd2578cc01638550650",
+        "REACTION": "O=C(C[CH]1CC2)C[CH]2N1C.CC(CC)[B-](C(CC)C)([H])C(CC)C.[Li+]>>O[C](C[CH]3CC4)([H])C[CH]4N3C",
+        "RXN_ID": "CHEMIFY-0004",
+        "SCALE": "10.0 mmol",
+        "yield": "84 %"
+    },
+    {
+        "id": "ea62d69d5efc4f8fa8a7780b8a271cb41638550632",
+        "REACTION": "O=C([H])[H].[H][C]1(OC(CC2=CC=CC=C2)=O)C[CH]3CC[CH](N3C)C1>O=C(O[Na])O[H]>[H][C]4(C[CH]5CC[CH](C4)N5C)OC([CH](CO)C6=CC=CC=C6)=O",
+        "RXN_ID": "CHEMIFY-0005",
+        "SCALE": "13.0 mmol",
+        "yield": "37 %"
+    },
+    {
+        "id": "aaaaee1b601745e28c55f8b1a8895f161638550636",
+        "REACTION": "O=C(Cl)CC1=CC=CC=C1.O[C](C[CH]2CC3)([H])C[CH]3N2C>>[H][C](C[CH]4CC5)(OC(CC6=CC=CC=C6)=O)C[CH]5N4C",
+        "RXN_ID": "CHEMIFY-0006",
+        "SCALE": "20.0 mmol",
+        "yield": "65 %"
+    },
+    {
+        "id": "6043551ac8ee4f079ee4cf335105a3311638550530",
+        "REACTION": "BrC#CCCCCCC.C=CCNC(OC)=O>[K]N([Si](C)(C)C)[Si](C)(C)C.[Cu]I>C=CCN(C(OC)=O)C#CCCCCCC",
+        "RXN_ID": "CHEMIFY-0010",
+        "SCALE": "10.0 mmol",
+        "yield": "43 %"
+    },
+    {
+        "id": "7ff7a407c800450dbe1cb145190687f21638550612",
+        "REACTION": "O=C1CC[C@@]2([H])[C@]3([H])CCC4=CC(O)=CC=C4[C@@]3([H])CC[C@@]21C.ClC(C)(C)C>Cl[Fe](Cl)Cl>O=C5CC[C@@]6([H])[C@]7([H])CCC8=CC(O)=C(C(C)(C)C)C=C8[C@@]7([H])CC[C@@]65C",
+        "RXN_ID": "CHEMIFY-0011",
+        "SCALE": "5.0 mmol",
+        "yield": "94 %"
+    },
+    {
+        "id": "79b1c481b4f74d2590c2581d923824251638550551",
+        "REACTION": "O=C1[C@](C(OCC=C)=O)(C)CCCC1>O=C(/C=C/C1=CC=CC=C1)/C=C/C2=CC=CC=C2.O=C(/C=C/C3=CC=CC=C3)/C=C/C4=CC=CC=C4.O=C(/C=C/C5=CC=CC=C5)/C=C/C6=CC=CC=C6.CC(C)(C)[C@@H](CO7)N=C7C8=CC=CC=C8P(C9=CC=CC=C9)C%10=CC=CC=C%10.[Pd].[Pd]>O=C2[C@@](CC=C)(C)CCCC2",
+        "RXN_ID": "CHEMIFY-0012",
+        "SCALE": "2.0 mmol",
+        "yield": "92 %"
+    },
+    {
+        "id": "effa9d4e122a408f8bbf50b7116bf99c1638550609",
+        "REACTION": "NNC1=CC=CC=C1.CC(C2=CC=C(C(OC)=C2)OC)=O>OP(O)(O)=O>COC3=CC(C4=CC5=CC=CC=C5N4)=CC=C3OC",
+        "RXN_ID": "CHEMIFY-0013",
+        "SCALE": "15.0 mmol",
+        "yield": "62 %"
+    },
+    {
+        "id": "20960fe84f524d60887171e425d6dd031638550585",
+        "REACTION": "NC1CCCCC1.C=CCNCC2=CC=CC=C2.[H]C3=CC=C(B(O)O)O3.OC(C(O)O)=O>C/[N+](C)=C(N(C)C)/ON4N=NC5=CC=CC=C54.F[B-](F)(F)F.CCN(C(C)C)C(C)C>[H]C67C=CC8(O7)C(CN(CC9=CC=CC=C9)C8C(NC%10CCCCC%10)=O)([H])C6",
+        "RXN_ID": "CHEMIFY-0014",
+        "SCALE": "25.1 mmol",
+        "yield": "60 %"
+    },
+    {
+        "id": "ab60ea0a5fbe48cea04476c0b76f4ee61638550592",
+        "REACTION": "[H]C1=C(OC)C([H])=CC(/C=N/CC2=CC=CC=C2)=C1.ClC(C3=CC([H])=C([H])C=C3Br)=O.C=C(C(OCC)=O)[Sn](CCCC)(CCCC)CCCC>[Cu]Cl.O=C(C)O[Pd]OC(C)=O.[Na]OC(C)=O>[H]C4=C(OC)C([H])=CC([C]5([H])N6CC7=CC=CC=C7)=C4C[C]5(C8=CC([H])=C([H])C=C8C6=O)C(OCC)=O",
+        "RXN_ID": "CHEMIFY-0015",
+        "SCALE": "0.5 mmol",
+        "yield": "56 %"
+    },
+    {
+        "id": "b136eba722654a5ea8ce430c98f1f3281638550563",
+        "REACTION": "O=CC1=CC=C([N+]([O-])=O)C=C1.C=CCN(C)C.CC(C)(C)[N+]#[C-].IC2=C(C(O)=O)C=CC=C2>>IC3=C(C(N(C(C4=CC=C([N+]([O-])=O)C=C4)C(NC(C)(C)C)=O)CC=C)=O)C=CC=C3",
+        "RXN_ID": "CHEMIFY-0016",
+        "SCALE": "12.0 mmol",
+        "yield": "64 %"
+    },
+    {
+        "id": "8473a63cc3ea4d359e3ab4bd0a5c9f351638550494",
+        "REACTION": "BrCC1=CC=CC=C1.O=C(O)C2=CC=C([N+]([O-])=O)C=C2>O=C(O[K])O[K]>O=C(OCC3=CC=CC=C3)C4=CC=C([N+]([O-])=O)C=C4",
+        "RXN_ID": "CHEMIFY-0017",
+        "SCALE": "5.0 mmol",
+        "yield": "86 %"
+    },
+    {
+        "id": "c6eda9321b0745388e8c77b1d68647231638550490",
+        "REACTION": "O=P(OCC)(OCC)CC(OCC)=O.C=O>[K]OC(O[K])=O>C=C(CC(OCC)=O)CO",
+        "RXN_ID": "CHEMIFY-0018",
+        "SCALE": "100.0 mmol",
+        "yield": "36 %"
+    },
+    {
+        "id": "bcf83a9013b447ef94795aabba3177011638550588",
+        "REACTION": "CC(C1=CC=C(F)C=C1)=O>C[Si](C)(C(F)(F)F)C.CCCC[N+](CCCC)(CCCC)CCCC.[F-]>CC(O)(C(F)(F)F)C2=CC=C(F)C=C2",
+        "RXN_ID": "CHEMIFY-0020",
+        "SCALE": "4.0 mmol",
+        "yield": -1
+    },
+    {
+        "id": "8ee5876f86ab4e3fb7bb1ab44ffcff161638550497",
+        "REACTION": "OB(O)C1=CC=CC=C1.BrC2=CC=C(B3OC(CN(C)CC(O3)=O)=O)S2>O=P(O[K])(O[K])O[K].NC4=C(C5=CC=CC=C5[Pd]Cl)C=CC=C4.CC(C)C6=CC(C(C)C)=CC(C(C)C)=C6C7=CC=CC=C7P(C8CCCCC8)C9CCCCC9>O=C(CN(C)C%10)OB(C%11=CC=C(C%12=CC=CC=C%12)S%11)OC%10=O",
+        "RXN_ID": "CHEMIFY-0021",
+        "SCALE": "2.64 mmol",
+        "yield": "68.8 %"
+    },
+    {
+        "id": "f9feb924affb48c9b1d0a026a5751da91638550572",
+        "REACTION": "IC1=C(C(N(CC=C)C(C2=CC=C(Cl)C=C2)C(NC3CCCCC3)=O)=O)C=CC=C1>CN(C4CCCCC4)C5CCCCC5.Cl[Pd]Cl.P(C6CCCCC6)(C7CCCCC7)C8CCCCC8.P(C9CCCCC9)(C%10CCCCC%10)C%11CCCCC%11>O=C(N(C=C%12C)C(C%13=CC=C(Cl)C=C%13)C(NC%14CCCCC%14)=O)C%15=C%12C=CC=C%15",
+        "RXN_ID": "CHEMIFY-0022",
+        "SCALE": "1.86 mmol",
+        "yield": "32 %"
+    },
+    {
+        "id": "0e30a0c59bb34a45928c79aac64e92751638550575",
+        "REACTION": "[C-]#[N+]C1CCCCC1.C=CCN.O=CC2=CC=C(Cl)C=C2.IC3=C(C(O)=O)C=CC=C3>CN(C4CCCCC4)C5CCCCC5.Cl[Pd]Cl.P(C6CCCCC6)(C7CCCCC7)C8CCCCC8.P(C9CCCCC9)(C%10CCCCC%10)C%11CCCCC%11>O=C(N(C=C%12C)C(C%13=CC=C(Cl)C=C%13)C(NC%14CCCCC%14)=O)C%15=C%12C=CC=C%15",
+        "RXN_ID": "CHEMIFY-0023",
+        "SCALE": "6.0 mmol",
+        "yield": "35 %"
+    },
+    {
+        "id": "ed99ef63fb5645bd8a82f0d48f664f6f1638550580",
+        "REACTION": "C=C[Si](C1=CC=CC=N1)(C)C.IC2=CC=CC=C2>CCN(CC)CC.O=C(/C=C/C3=CC=CC=C3)/C=C/C4=CC=CC=C4.O=C(/C=C/C5=CC=CC=C5)/C=C/C6=CC=CC=C6.O=C(/C=C/C7=CC=CC=C7)/C=C/C8=CC=CC=C8.C9(P(C%10=CC=CO%10)C%11=CC=CO%11)=CC=CO9.[Pd].[Pd]>C[Si](/C=C/C%12=CC=CC=C%12)(C)C%13=CC=CC=N%13",
+        "RXN_ID": "CHEMIFY-0024",
+        "SCALE": "3.10 mmol",
+        "yield": "65 %"
+    },
+    {
+        "id": "230bbb5303a845a8bd095688227b51051638550581",
+        "REACTION": "C=C[Si](C)(C)C1=NC=CC=C1.IC2=CC=CC=C2>O=C(/C=C/C3=CC=CC=C3)/C=C/C4=CC=CC=C4.O=C(/C=C/C5=CC=CC=C5)/C=C/C6=CC=CC=C6.O=C(/C=C/C7=CC=CC=C7)/C=C/C8=CC=CC=C8.[Pd].[Pd]>C[Si](/C=C(C9=CC=CC=C9)\\C%10=CC=CC=C%10)(C)C%11=CC=CC=N%11",
+        "RXN_ID": "CHEMIFY-0025",
+        "SCALE": "3.10 mmol",
+        "yield": "74 %"
+    },
+    {
+        "id": "219ac2b47334450fbfc2c6632c84c5981638550599",
+        "REACTION": "O=C([H])C1=CC=C(Br)C=C1.COC2=CC=C(B(O)O)C=C2>[Na]OC(O[Na])=O.O=C(O[Pd]OC(C)=O)C.P(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5>O=C([H])C6=CC=C(C7=CC=C(OC)C=C7)C=C6",
+        "RXN_ID": "CHEMIFY-0026",
+        "SCALE": "5.02 mmol",
+        "yield": "61 %"
+    },
+    {
+        "id": "cdfb3829a3da47b18c2d2442bc67d0651638550597",
+        "REACTION": "IC1=CC=CC([N+]([O-])=O)=C1.[H]C#CC(O)(C)C>>CC(O)(C)C#CC2=CC=CC([N+]([O-])=O)=C2",
+        "RXN_ID": "CHEMIFY-0027",
+        "SCALE": "5.0 mmol",
+        "yield": "84 %"
+    },
+    {
+        "id": "091d8d41e77f4edeadfdc19676e7046c1638550499",
+        "REACTION": "[H]OO[H].C1CCC/C=C\\CC1>[H]C#N.O=C(O)O[K]>[CH]23CCCCCC[CH]2O3",
+        "RXN_ID": "CHEMIFY-0028",
+        "SCALE": "50.0 mmol",
+        "yield": "66 %"
+    },
+    {
+        "id": "a7e37c2e4ea14b1f91440b65691b04821638550523",
+        "REACTION": "O=C(CC(OCC)=O)OCC.BrCCBr>CC[N+](CC1=CC=CC=C1)(CC)CC.[Cl-]>O=C(C2(C(O)=O)CC2)O",
+        "RXN_ID": "CHEMIFY-0029",
+        "SCALE": "25.0 mmol",
+        "yield": "62 %"
+    },
+    {
+        "id": "bef4fdca72b1477d92dd04753aad7e901638550516",
+        "REACTION": "NCC1=CC=C(OC)C=C1.CC(OC(OC(OC(C)(C)C)=O)=O)(C)C>CCN(CC)CC>COC2=CC=C(CNC(OC(C)(C)C)=O)C=C2",
+        "RXN_ID": "CHEMIFY-0030",
+        "SCALE": "5.0 mmol",
+        "yield": "88 %"
+    },
+    {
+        "id": "b50367750d7040f89869eb5c48446bd61638550536",
+        "REACTION": "OC(C)(C)C.ClC(C(C)(C)C)=O>FC(F)(S(=O)(O)=O)F>CC(C)(C)C1=CC(C)=CC(C(C)(C)C)=[O+]1.FC(F)(S(=O)([O-])=O)F",
+        "RXN_ID": "CHEMIFY-0032",
+        "SCALE": "40.0 mmol",
+        "yield": "36 %"
+    },
+    {
+        "id": "3a4d60793fb24596a54636c0ceacbe2e1638550653",
+        "REACTION": "O=C(CC(OCC)=O)C>CN.O=C1C=CC(C=C1)=O.Cl[Zn]Cl>OC2=CC=C3C(C(C(OCC)=O)=C(C)N3C)=C2",
+        "RXN_ID": "CHEMIFY-0033",
+        "SCALE": "33.8 mmol",
+        "yield": "59 %"
+    },
+    {
+        "id": "c096daec862a4aae8e28596e4d3ec7d91638550510",
+        "REACTION": "ClC(O)=O.NCC=C>>C=CCNC(OC)=O",
+        "RXN_ID": "CHEMIFY-0034",
+        "SCALE": "90.5 mmol",
+        "yield": "81 %"
+    },
+    {
+        "id": "eaf625ef3efd44cab7309bd5b1a985bc1638550526",
+        "REACTION": "C#CCCCCCC.O=C1CCC(N1Br)=O>[Ag]O[N+]([O-])=O>BrC#CCCCCCC",
+        "RXN_ID": "CHEMIFY-0035",
+        "SCALE": "10.0 mmol",
+        "yield": "91 %"
+    },
+    {
+        "id": "ca6b4b155ca9423bb8e6126880df1dd91638550550",
+        "REACTION": "O=C(OCC=C)CCCCCC(OCC=C)=O>[H][Na].IC>O=C1[C@](C(OCC=C)=O)(C)CCCC1",
+        "RXN_ID": "CHEMIFY-0037",
+        "SCALE": "9.0 mmol",
+        "yield": "74 %"
+    },
+    {
+        "id": "d5af1a8aadc7483a86580ba2dc477bdc1638550533",
+        "REACTION": "O=C1CCCN1C=C.O=C(C2=CC=CC=C2)OCC>[NaH]>O=C3C(C(C4=CC=CC=C4)=O)CCN3C=C",
+        "RXN_ID": "CHEMIFY-0038",
+        "SCALE": "45.0 mmol",
+        "yield": "52 %"
+    },
+    {
+        "id": "d053cec6e90841ed9a64219ccf6f40191638550646",
+        "REACTION": "OC1=CC=C(C(C)(C)C)C=C1.C=O>[Na]O>OC2=C(CC3=CC(C(C)(C)C)=CC(CC4=CC(C(C)(C)C)=CC(CC5=C(O)C6=CC(C(C)(C)C)=C5)=C4O)=C3O)C=C(C(C)(C)C)C=C2CC7=C(O)C(CC8=CC(C(C)(C)C)=CC(CC9=CC(C(C)(C)C)=CC(CC%10=CC(C(C)(C)C)=CC(C6)=C%10O)=C9O)=C8O)=CC(C(C)(C)C)=C7",
+        "RXN_ID": "CHEMIFY-0040",
+        "SCALE": "33.3 mmol",
+        "yield": "36 %"
+    },
+    {
+        "id": "b37a5089d5b04d8e9bf296be8a7a52d21638550514",
+        "REACTION": "CO.O=C1CC[C@H](C(O)=O)N1>ClS(Cl)=O>O=C2CC[C@H](C(OC)=O)N2",
+        "RXN_ID": "CHEMIFY-0041",
+        "SCALE": "25.6 mmol",
+        "yield": "65 %"
+    },
+    {
+        "id": "f777185606294c9ca1ec988deb80d2491638550648",
+        "REACTION": "OC1=C(CC2=CC(C(C)(C)C)=CC(CC3=CC(C(C)(C)C)=CC(CC4=C(O)C5=CC(C(C)(C)C)=C4)=C3O)=C2O)C=C(C(C)(C)C)C=C1CC6=C(O)C(CC7=CC(C(C)(C)C)=CC(CC8=CC(C(C)(C)C)=CC(CC9=CC(C(C)(C)C)=CC(C5)=C9O)=C8O)=C7O)=CC(C(C)(C)C)=C6>OC%10=CC=CC=C%10.Cl[Al](Cl)Cl>OC%11=C(CC%12=CC=CC(CC%13=CC=CC(CC%14=C(O)C%15=CC=C%14)=C%13O)=C%12O)C=CC=C%11CC%16=C(O)C(CC%17=CC=CC(CC%18=CC=CC(CC%19=CC=CC(C%15)=C%19O)=C%18O)=C%17O)=CC=C%16",
+        "RXN_ID": "CHEMIFY-0042",
+        "SCALE": "0.77 mmol",
+        "yield": "58 %"
+    },
+    {
+        "id": "d0133e38136b412b80260767344b49351638550493",
+        "REACTION": "NC1CCCCC1N.OC(C(O)=O)[C@@H](O)C(O)=O>>[NH3+]C2CCCCC2[NH3+].O[C@@H](C([O-])=O)C(C([O-])=O)O",
+        "RXN_ID": "CHEMIFY-0043",
+        "SCALE": "100.0 mmol",
+        "yield": "76 %"
+    },
+    {
+        "id": "104831eac2e6479d943e9c2f3d0bea091638550596",
+        "REACTION": "OC1=C(C(C)(C)C)C=C(C(C)(C)C)C=C1C=O.[NH3+]C2C([NH3+])CCCC2.OC(C(O)C([O-])=O)C([O-])=O>[K]OC(O[K])=O>[H]C3(/N=C/C4=C(O)C(C(C)(C)C)=CC(C(C)(C)C)=C4)C(/N=C/C5=CC(C(C)(C)C)=CC(C(C)(C)C)=C5O)([H])CCCC3",
+        "RXN_ID": "CHEMIFY-0044",
+        "SCALE": "11.2 mmol",
+        "yield": "85 %"
+    },
+    {
+        "id": "3a52905c23914f09985710a9ec8352861638550601",
+        "REACTION": "OC(C(C(C)(C)C)=CC(C(C)(C)C)=C1)=C1/C=N/C2C(/N=C/C3=CC(C(C)(C)C)=CC(C(C)(C)C)=C3O)CCCC2.O=C(O[Mn]OC(C)=O)C>>Cl[Mn]456OC7=C(C(C)(C)C)C=C(C(C)(C)C)C=C7C=[N]4C8CCCCC8[N]5=CC9=C(O6)C(C(C)(C)C)=CC(C(C)(C)C)=C9",
+        "RXN_ID": "CHEMIFY-0045",
+        "SCALE": "1.5 mmol",
+        "yield": "70 %"
+    },
+    {
+        "id": "62e91f78b04143daba67df5a168562db1638550503",
+        "REACTION": "O=C1CC[C@@]2(C)C(CC[C@]3([H])[C@]2([H])CC[C@@]4(C)[C@@]3([H])CC[C@]4([H])[C@](CCCC(C)C)([H])C)=C1.FC(F)(S(=O)(OS(C(F)(F)F)(=O)=O)=O)F>CC(C5=NC(C(C)(C)C)=CC(C)=C5)(C)C>[H][C@]6([C@](CCCC(C)C)([H])C)CC[C@@]7([H])[C@]8([H])CC=C9C=C(OS(=O)(C(F)(F)F)=O)CC[C@]9(C)[C@@]8([H])CC[C@@]76C",
+        "RXN_ID": "CHEMIFY-0046",
+        "SCALE": "15.0 mmol",
+        "yield": "99 %"
+    },
+    {
+        "id": "7cd0584dd11c4964853e9229451db6e51638550519",
+        "REACTION": "[H][C@]1([C@](CCCC(C)C)([H])C)CC[C@@]2([H])[C@]3([H])CC=C4C=C(OS(=O)(C(F)(F)F)=O)CC[C@]4(C)[C@@]3([H])CC[C@@]21C.O=C([H])O>CCCCN(CCCC)CCCC.O=C(O[Pd]OC(C)=O)C.P(C5=CC=CC=C5)(C6=CC=CC=C6)C7=CC=CC=C7>[H]C8=CC9=CC[C@]([C@@](CC[C@]%10([H])[C@](CCCC(C)C)([H])C)([H])[C@]%10(C)CC%11)([H])[C@@]%11([H])[C@@]9(C)CC8.O=C=O",
+        "RXN_ID": "CHEMIFY-0047",
+        "SCALE": "5.00 mmol",
+        "yield": "71 %"
+    },
+    {
+        "id": "4cd33004610947a48eba824a336ac9f31638550512",
+        "REACTION": "OC1=CC=C2C(C=CC=C2)=C1C3=C(O)C=CC4=CC=CC=C43.O=P(Cl)(Cl)Cl>C5=CN=CC=C5>O=P6(O)OC7=[C@]([C@]8=C(C=CC=C9)C9=CC=C8O6)C%10=CC=CC=C%10C=C7.C%11=CN=CC=C%11",
+        "RXN_ID": "CHEMIFY-0048",
+        "SCALE": "34.9 mmol",
+        "yield": "40 %"
+    },
+    {
+        "id": "04547fbb70bb44e0b0fe01ee4dc2d7591638550603",
+        "REACTION": "NC(C1=CC=CN=C1)=O>O=P(C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4.O=C(C(Cl)=O)Cl.CCN(CC)CC>N#CC5=CC=CN=C5",
+        "RXN_ID": "CHEMIFY-0049",
+        "SCALE": "20.0 mmol",
+        "yield": -1
+    },
+    {
+        "id": "5dbe46f25a8a4e45967e06a69f7c3b651638550625",
+        "REACTION": "O[C@@H]1CC[C@@]2(C)[C@@](CCC3([H])[C@]2([H])CC[C@@]4(C)[C@@]3([H])CC[C@]4([H])[C@H](C)CCC(O)=O)([H])C1>O=S(O)(O)=O.O=[Cr](=O)=O>O=C5CC[C@@]6(C)[C@@](CCC7([H])[C@]6([H])CC[C@@]8(C)[C@@]7([H])CC[C@]8([H])[C@H](C)CCC(O)=O)([H])C5",
+        "RXN_ID": "CHEMIFY-0050",
+        "SCALE": "1.35 mmol",
+        "yield": "65 %"
+    },
+    {
+        "id": "6f53005b5bc44a22a0e994a2d3a3ded31638550582",
+        "REACTION": "CC1=CC=NO1>[Na]OC>C/C(O[Na])=C/C#N",
+        "RXN_ID": "CHEMIFY-0051",
+        "SCALE": "33.0 mmol",
+        "yield": "76 %"
+    },
+    {
+        "id": "08d6195e11114504a235c3bc183cb30e1638550587",
+        "REACTION": "COC1=CC=CC(OC)=N1.C2CNCCC2>[Li]I.[NaH]>COC3=CC=CC(N4CCCCC4)=N3",
+        "RXN_ID": "CHEMIFY-0052",
+        "SCALE": "10.1 mmol",
+        "yield": "53 %"
+    },
+    {
+        "id": "b5ee5b03bee942caa9a03b58785241be1638550576",
+        "REACTION": "NC1=CC=C(C(F)(F)F)C=C1.BrC2=CN=CN=C2>O=C(/C=C/C3=CC=CC=C3)/C=C/C4=CC=CC=C4.O=C(/C=C/C5=CC=CC=C5)/C=C/C6=CC=CC=C6.O=C(/C=C/C7=CC=CC=C7)/C=C/C8=CC=CC=C8.CC(C9=CC(C(C)C)=CC(C(C)C)=C9C%10=C(P(C%11CCCCC%11)C%12CCCCC%12)C=CC=C%10)C.O=P(O[K])(O[K])O[K].[Pd].[Pd]>FC(C%13=CC=C(NC%14=CN=CN=C%14)C=C%13)(F)F",
+        "RXN_ID": "CHEMIFY-0053",
+        "SCALE": "5.0 mmol",
+        "yield": "75 %"
+    },
+    {
+        "id": "82fc6e3308aa409a9df479c56457aacd1638552762",
+        "REACTION": "ClC1=CC=C(C=O)C=C1.C=CCN(C)C.CC(C)(C)[N+]#[C-].IC2=C(C(O)=O)C=CC=C2>>IC3=C(C([NH+](C(C4=CC=C(Cl)C=C4)C(NC(C)(C)C)=O)CC=C)=O)C=CC=C3",
+        "RXN_ID": "CHEMIFY-0054",
+        "SCALE": "12.0 mmol",
+        "yield": "56 %"
+    },
+    {
+        "id": "64cdfaada3e040ca9d488a1ce7f9c9781638552762",
+        "REACTION": "O=CC1=CC=C([N+]([O-])=O)C=C1.C=CCN(C)C.[C-]#[N+]C2CCCCC2.IC3=C(C(O)=O)C=CC=C3>>IC4=C(C(N(C(C5=CC=C([N+]([O-])=O)C=C5)C(NC6CCCCC6)=O)CC=C)=O)C=CC=C4",
+        "RXN_ID": "CHEMIFY-0055",
+        "SCALE": "12.0 mmol",
+        "yield": "80 %"
+    },
+    {
+        "id": "069f2781be3848a1941195611e082de01638552763",
+        "REACTION": "ClC1=CC=C(C=O)C=C1.C=CCN(C)C.[C-]#[N+]C2CCCCC2.IC3=C(C(O)=O)C=CC=C3>>IC4=C(C(N(C(C5=CC=C(Cl)C=C5)C(NC6CCCCC6)=O)CC=C)=O)C=CC=C4",
+        "RXN_ID": "CHEMIFY-0056",
+        "SCALE": "12.0 mmol",
+        "yield": "78 %"
+    },
+    {
+        "id": "4f5cc25e36ed4b2b9d3798bfb0224c881638552653",
+        "REACTION": "O=C(OC)CC(OC)=O.BrC/C=C(C)/C>[Na]OC>O=C(OC)C(C/C=C(C)/C)C(OC)=O.O=C(OC)C(C/C=C(C)\\C)(C/C=C(C)\\C)C(OC)=O",
+        "RXN_ID": "CHEMIFY-0057",
+        "SCALE": "20.0 mmol",
+        "yield": "31 %"
+    },
+    {
+        "id": "0e8a2368478840b6b083ccea77e02fc91638552863",
+        "REACTION": "NC.O=C(CC(O)=O)CC(O)=O.COC1OC(CC1)OC>[H]Cl.[Na]OC(C)=O>O=C2C[C@H]3CC[C@H](N3C)C2",
+        "RXN_ID": "CHEMIFY-0075",
+        "SCALE": "20 mmol",
+        "yield": "56 %"
+    },
+    {
+        "id": "1fac1a9688cd40c6a277d70cf5d17e051638552861",
+        "REACTION": "NNC1=CC=CC=C1.C2=COCC2>OS(=O)(O)=O>OCCC3=CNC4=CC=CC=C43",
+        "RXN_ID": "CHEMIFY-0077",
+        "SCALE": "30 mmol",
+        "yield": "33 %"
+    },
+    {
+        "id": "0202911c0ff64430872301f5482d51ae1638552812",
+        "REACTION": "OC(CCCCCC(O)=O)=O.OCC=C>CC1=CC=C(S(=O)(O)=O)C=C1>O=C(OCC=C)CCCCCC(OCC=C)=O",
+        "RXN_ID": "CHEMIFY-0078",
+        "SCALE": "40 mmol",
+        "yield": "64 %"
+    },
+    {
+        "id": "df63edbb38d04186ba93c477f4bb3d3f1638552810",
+        "REACTION": "O=C1[C@@H](C(C2=CC=CC=C2)=O)CCN1C=C>[H]Cl>C3(C4=CC=CC=C4)=NCCC3",
+        "RXN_ID": "CHEMIFY-0079",
+        "SCALE": "10 mmol",
+        "yield": "38 %"
+    },
+    {
+        "id": "720e9317558e4e1289a3f2c21628e7721636966763",
+        "REACTION": "C[Si](C)(Cl)C.BrCC(OCC)=O>[Zn].[Cu]>O=C(OCC)C[Si](C)(C)C",
+        "RXN_ID": "CHEMIFY-0080",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "4f38c2ef474e439287e8a442ccea579e1636731239",
+        "REACTION": "OCC1=CC=CC=C1>ClC(Cl)(Cl)Cl.[Na]N=[N+]=[N-].P(C2=CC=CC=C2)(C3=CC=CC=C3)C4=CC=CC=C4>NCC5=CC=CC=C5",
+        "RXN_ID": "CHEMIFY-0081",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "fb120953483f42118c65649077682cd11636968080",
+        "REACTION": "CC(C)CC(NC(OC(C)(C)C)=O)C(O)=O.O>ClC(OC)=O.CONC>CC(C)CC(C(N(OC)C)=O)NC(OC(C)(C)C)=O",
+        "RXN_ID": "CHEMIFY-0082",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "523119b8bd604096a859c39630adfab21636983693",
+        "REACTION": "C[Si](C#C[Si](C)(C)C)(C)C.O=S(C1=CC=C(C)C=C1)(Cl)=O>Cl[Al](Cl)Cl>O=S(C#C[Si](C)(C)C)(C2=CC=C(C)C=C2)=O",
+        "RXN_ID": "CHEMIFY-0084",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "8e1192275d5249dc940878b286567ee71636983735",
+        "REACTION": "O=S(C#C[Si](C)(C)C)(C1=CC=C(C)C=C1)=O>O=C(O[K])O[K].O=C(O[K])O>[H]C#CS(=O)(C2=CC=C(C)C=C2)=O",
+        "RXN_ID": "CHEMIFY-0085",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "4e36e641c872498fa48194f2dcc0e8be1636984069",
+        "REACTION": "OC/C=C/C1=CC=CC=C1.C2(CNCC3=CC=CC=C3)=CC=CC=C2>CC4(C)C5=C(C(P(C6=CC=CC=C6)C7=CC=CC=C7)=CC=C5)OC8=C(P(C9=CC=CC=C9)C%10=CC=CC=C%10)C=CC=C84.Cl[Pd]Cl>C%11(/C=C/CN(CC%12=CC=CC=C%12)CC%13=CC=CC=C%13)=CC=CC=C%11",
+        "RXN_ID": "CHEMIFY-0086",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "fa5fd1865e994d68afa00166b2fe568b1636984311",
+        "REACTION": "IC1=CC=C(Br)C=C1>BrC2=CC=CC=C2.O=S(C(F)(F)F)(O)=O.ClC3=CC(C(OO)=O)=CC=C3>BrC4=CC=C([I+]C5=CC=C(Br)C=C5)C=C4.[O-]S(=O)(C(F)(F)F)=O",
+        "RXN_ID": "CHEMIFY-0087",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "a3e64c234f75460d87be5439f58f56801636989569",
+        "REACTION": "O=CC4=CC=CC=C4.O=S(C(C=C1)=CC=C1N2C(C3=CC=CC=C3)=CC(C(F)(F)F)=N2)(N)=O>BrCC5=CC=CC=C5.O=C(O[K])O[K].CC6=CC(C)=C(N7N=C8[N+](CCC8)=C7)C(C)=C6.[Cl-]>O=S(C(C=C9)=CC=C9N%10C(C%11=CC=CC=C%11)=CC(C(F)(F)F)=N%10)(CC%12=CC=CC=C%12)=O",
+        "RXN_ID": "CHEMIFY-0088",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "1a770014f22843eea8905a51fc53621e1636989718",
+        "REACTION": "OC1=CC=C(CC(OC)=O)C=C1>O=C(OI(C2=CC=CC=C2)OC(C)=O)C.CC#N.O=C(O)C(F)(F)F>O=C3C=CC(CC(OC)=O)(NC(C)=O)C=C3",
+        "RXN_ID": "CHEMIFY-0089",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "277bd24210c0422d9299d31d654325251636990069",
+        "REACTION": "O=C(OC)C(C/C=C(C)/C)C(OC)=O>BrCC#C[H]>O=C(OC)C(C/C=C(C)\\C)(CC#C[H])C(OC)=O",
+        "RXN_ID": "CHEMIFY-0090",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "0af48ddb80824efbb6c3ba77af03e5931636990749",
+        "REACTION": "O=C(OC)C(C/C=C(C)\\C)(CC#C[H])C(OC)=O>CCCC[SnH](CCCC)CCCC.N#CC(C)(C)/N=N/C(C)(C)C#N.O=[Si]=O>O=C(OC)C(CC1C(C)C)(C/C1=C([H])/[H])C(OC)=O",
+        "RXN_ID": "CHEMIFY-0091",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "6e8a9ffa3ff144af9b1902a711270c8c1636990867",
+        "REACTION": "BrC1=C(O)C=CC=C1>Cl[Mg]Cl.CCN(CC)CC.C=O>BrC2=C(O)C(C=O)=CC=C2",
+        "RXN_ID": "CHEMIFY-0092",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "e3f196cb6a6144c184a982ff0bbc949b1636994275",
+        "REACTION": "IC1=CC=C(F)C=C1.C23=CC=CC=C2C=CS3>O=C(O[Ag])O[Ag].ClC(Cl)Cl.O=C(/C=C/C4=CC=CC=C4)/C=C/C5=CC=CC=C5.O=C(/C=C/C6=CC=CC=C6)/C=C/C7=CC=CC=C7.O=C(/C=C/C8=CC=CC=C8)/C=C/C9=CC=CC=C9.[Pd].[Pd]>FC(C=C%10)=CC=C%10C%11=CSC%12=CC=CC=C%12%11",
+        "RXN_ID": "CHEMIFY-0093",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "571dc8951e104c4bb66a91a5d3ac6c591636994597",
+        "REACTION": "C=CCCC1=CC=CC=C1>CC(C)(C)C2=CC=NC(C3=CC(C(C)(C)C)=CC=N3)=C2.COCCOCCOC.CN(C)/C(N(C)C)=C(N(C)C)/N(C)C.IC4=CC=C(OC)C=C4.CC(C)(I)C.Br[Ni]Br>CC(CC(C5=CC=C(OC)C=C5)CCC6=CC=CC=C6)(C)C",
+        "RXN_ID": "CHEMIFY-0094",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "a16267342c81464d84a475cb20b71b5d1636994772",
+        "REACTION": "BrC1=CC=C(SC=C2)C2=C1>C[Si](C)(C(C)=O)C.[Cs]F.P(C3=CC=CC=C3)(C4=CC=CC=C4)C5=CC=CC=C5.P(C6=CC=CC=C6)(C7=CC=CC=C7)C8=CC=CC=C8.P(C9=CC=CC=C9)(C%10=CC=CC=C%10)C%11=CC=CC=C%11.P(C%12=CC=CC=C%12)(C%13=CC=CC=C%13)C%14=CC=CC=C%14.[Pd]>CC(C%15=CC=C(SC=C%16)C%16=C%15)=O",
+        "RXN_ID": "CHEMIFY-0095",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "f4197d65d95a462baf8c7826de3cf1be1636995055",
+        "REACTION": "O=C(NC1CCCC1)C2=CC=CC=C2.CC#CC3=CC=CC=C3>O=S(C(F)(F)F)(OS(=O)(C(F)(F)F)=O)=O.IC4=CC=CC=N4>CC5=C(C6=CC=CC=C6)N=C(C7=CC=CC=C7)N=C5C8=CC=CC=C8",
+        "RXN_ID": "CHEMIFY-0096",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "dff75cc3bb324b60b8eb7f73ab605d351636995637",
+        "REACTION": "BrC1=CC=CC=C1.C2=CC=NN2>O=C(O[K])O[K].[Cu]Br.O=C(O)[C@@H]3[C@H](O)[C@H](O)[C@@H](O)[C@@H](O)O3>C4(N5N=CC=C5)=CC=CC=C4",
+        "RXN_ID": "CHEMIFY-0097",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "c567e10f9834416391487227b2a098731636995833",
+        "REACTION": "CCO/C=C(C(OCC)=O)/C(OCC)=O.NC1=CC=CC=C1>C[NH2+]O.O=C(O[K])O[K].[Cl-].C2=CN=CC=C2>CN3OC(O)=C(C(OCC)=O)C3NC4=CC=CC=C4",
+        "RXN_ID": "CHEMIFY-0098",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "77d9c177cfbf4e68a559ae2139e2568b1636995964",
+        "REACTION": "CC(C1=CC=CC=C1)=O.S2SSSSSSS2.O=C(N)N>C1=CN=CC=C1>C34=CC=CC=C3C5=C(SC(C6=CC=CC=C6)=N5)S4",
+        "RXN_ID": "CHEMIFY-0099",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "72960c6f202d4588b1c88bfcbf18ba171636996244",
+        "REACTION": "[N-]=[N+]=NCC3=CC=CC=C3.C#CC1=CC=CC=C1>CC2=C(C)C(C)=C(C)C2([Ru]Cl)C.C4=C\\CC/C=C\\CC/4>C5(C6=CN=NN6CC7=CC=CC=C7)=CC=CC=C5",
+        "RXN_ID": "CHEMIFY-0100",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "5c6e8863ac424bc9b37fcea61744784a1636996722",
+        "REACTION": "C=CCN(C(OC(C)(C)C)=O)CC=C>Cl/[Ru](Cl)=C\\C1=CC=CC=C1.P(C2CCCCC2)(C3CCCCC3)C4CCCCC4.P(C5CCCCC5)(C6CCCCC6)C7CCCCC7>CC(OC(N8CC=CC8)=O)(C)C",
+        "RXN_ID": "CHEMIFY-0101",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "1a9296776fc847baa37ab549eb09e65a1636996985",
+        "REACTION": "CC1(C)C2=C(C(P(C3=CC=CC=C3)C4=CC=CC=C4)=CC=C2)OC5=C(P(C6=CC=CC=C6)C7=CC=CC=C7)C=CC=C51.N#CC.N#CC.Cl[Pd]Cl>>Cl[Pd]Cl.CC8(C)C9=C(C(P(C%10=CC=CC=C%10)C%11=CC=CC=C%11)=CC=C9)OC%12=C(P(C%13=CC=CC=C%13)C%14=CC=CC=C%14)C=CC=C%128",
+        "RXN_ID": "CHEMIFY-0102",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "5090142b1bfb44ed8056c3b9dc7dc6de1637054603",
+        "REACTION": "OC(C(CBr)CBr)=O.CO>CS(=O)(O)=O>O=C(OC)C(CBr)CBr",
+        "RXN_ID": "CHEMIFY-0103",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "72670ddc4bd6483cacfc00f2a59053201637054753",
+        "REACTION": "O=C(OC)C(CBr)CBr>CCN(CC)CC>C=C(CBr)C(OC)=O",
+        "RXN_ID": "CHEMIFY-0104",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "208cbf13424b4f80a3e06006adbb57521637055056",
+        "REACTION": "CS(=O)(Cl)=O.OC[C@H]1[C@H](CO)OC(C)(C)O1>CS(=O)(O)=O.C2=CN=CC=C2>O[C@@H](COS(C)(=O)=O)[C@H](COS(C)(=O)=O)O",
+        "RXN_ID": "CHEMIFY-0105",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "8b04acbee93a4d368e1a3463e1a08d5b1637055407",
+        "REACTION": "O[C@@H](COS(C)(=O)=O)[C@H](COS(C)(=O)=O)O>[K]O>[C@@H]1(OC1)[C@H]2OC2",
+        "RXN_ID": "CHEMIFY-0106",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "106b9a5c45564c6e84f57acb8a9e328c1637055500",
+        "REACTION": "[C@@H]1(OC1)[C@H]2OC2>Br[Mg]C3=CC=CC=C3.[Cu]I>O[C@@H](CC4=CC=CC=C4)[C@H](CC5=CC=CC=C5)O",
+        "RXN_ID": "CHEMIFY-0107",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "10367ee13f3643ea8344ba327e416c1a1637056743",
+        "REACTION": "O=C(N)C.OC(C(F)(F)F)OC>>OC(C(F)(F)F)NC(C)=O",
+        "RXN_ID": "CHEMIFY-0108",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "bc3d6a604574443380b68be6f802560f1637056787",
+        "REACTION": "O=S(Cl)Cl.OC(C(F)(F)F)NC(C)=O>>ClC(C(F)(F)F)NC(C)=O",
+        "RXN_ID": "CHEMIFY-0109",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "6b942b21ea364833bebcd13507dc348f1637056837",
+        "REACTION": "S=C(S[K])OCC.ClC(C(F)(F)F)NC(C)=O>>S=C(OCC)SC(C(F)(F)F)NC(C)=O",
+        "RXN_ID": "CHEMIFY-0110",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "08c522e066474aeda7d338e874838f011637056895",
+        "REACTION": "S=C(OCC)SC(C(F)(F)F)NC(C)=O>O=C(OOC(CCCCCCCCCCC)=O)CCCCCCCCCCC.C=COC(C)=O>S=C(OCC)SC(OC(C)=O)CC(C(F)(F)F)NC(C)=O",
+        "RXN_ID": "CHEMIFY-0111",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "c9b36b339c5e4b0488219036bd0add901637057268",
+        "REACTION": "ClC(Cl)(C(Cl)=O)Cl.[H]C#CCCCC>[Zn][Cu]>O=C1C(Cl)(Cl)C(CCCC)=C1",
+        "RXN_ID": "CHEMIFY-0112",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "5177ce66e4c7415b9f8797c863de4ee51637057307",
+        "REACTION": "O=C1C(Cl)(Cl)C(CCCC)=C1>CN(C)CCN(C)C.[Zn]>O=C2C([H])([H])C(CCCC)=C2",
+        "RXN_ID": "CHEMIFY-0113",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "8ab6303297bd471f9b7df55cd2207c6c1637057529",
+        "REACTION": "BrCC1=CC=CC=C1.OCCC(C)=O>[Ag]O[Ag]>CC(CCOCC2=CC=CC=C2)=O",
+        "RXN_ID": "CHEMIFY-0114",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "9dd1d533acdf42c4bf6ffbce94caaa0b1637057559",
+        "REACTION": "[13CH3]C(O)=O.CC(CCOCC1=CC=CC=C1)=O>CC(C)N([Li])C(C)C>CC(O)([13CH2]C(O)=O)CCOCC2=CC=CC=C2",
+        "RXN_ID": "CHEMIFY-0115",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "80f86ab40ea64086b91d7ccbd664e3741637058055",
+        "REACTION": "ClC(C(Cl)=O)=O.CN.O=C(OC1=C2C(NC=C2)=CC=C1)C>C3=CN=CC=C3>O=C(C(N(C)C)=O)C4=CNC5=CC=CC(OC(C)=O)=C54",
+        "RXN_ID": "CHEMIFY-0116",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "4c810a18f9024ba683d1a3173dc3d4e11637058160",
+        "REACTION": "O=C(C(N(C)C)=O)C1=CNC2=CC=CC(OC(C)=O)=C21>[H][Al-]([H])([H])[H].[Li+]>OC3=C4C(NC=C4CCN(C)C)=CC=C3",
+        "RXN_ID": "CHEMIFY-0117",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "6a32a0753ecd4e3a800aaba60f640d381637061998",
+        "REACTION": "OC(CCC1=CC=CC=C1)=O.C2CNCC2>CCN(CC)CC.CCN=C=NCCC[NH+](C)C.ON3N=NC4=CC=CC=C43.[Cl-]>O=C(N5CCCC5)CCC6=CC=CC=C6",
+        "RXN_ID": "CHEMIFY-0118",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "8fb5446dd0b241658ca5a280d56834fd1637063725",
+        "REACTION": "SCC5=CC=CC=C5.O=C(N1CCCC1)CCC2=CC=CC=C2>IC3=NC=CC=C3.O=S(C(F)(F)F)(OS(=O)(C(F)(F)F)=O)=O.CC4=CC=CC(C)=[N+]4[O-].[NaH]>O=C(N6CCCC6)C(SCC7=CC=CC=C7)CC8=CC=CC=C8",
+        "RXN_ID": "CHEMIFY-0119",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "090974beec2e49a58291a57c63fa24f21637064001",
+        "REACTION": "SC1=NC=C(C(F)(F)F)C=C1.C=CCBr>O=C(O[K])O[K].ClC2=CC(C(OO)=O)=CC=C2>C=CCS(C3=NC=C(C(F)(F)F)C=C3)(=O)=O",
+        "RXN_ID": "CHEMIFY-0120",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "1e77bf10cb534fc9bac226426806b3761637064158",
+        "REACTION": "C=CCS(C1=NC=C(C(F)(F)F)C=C1)(=O)=O.BrC2=CC=C(C)C=C2>O=C(O[Cs])O[Cs].CC(P(C)C(C)(C)C)(C)C.O=C(O[Pd]OC(C)=O)C>FC(C3=CN=C(C4=CC=C(C)C=C4)C=C3)(F)F",
+        "RXN_ID": "CHEMIFY-0121",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "136965745e3b4bcdb76c2f3c0110b9e11637064509",
+        "REACTION": "O=C(CC1=CC=CC=C1)C2=CC=CC=C2>[NH3+]O.O=C(OC(C)=O)C.[Na]OC(C)=O.[Cl-]>O=C(O/N=C(CC3=CC=CC=C3)/C4=CC=CC=C4)C",
+        "RXN_ID": "CHEMIFY-0122",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "a29c86fb71774c1b8a3485e54a26b7bc1637064650",
+        "REACTION": "O=C(O/N=C(CC1=CC=CC=C1)/C2=CC=CC=C2)C>O=C(O[Cs])O[Cs]>C3(C4=NC4C5=CC=CC=C5)=CC=CC=C3",
+        "RXN_ID": "CHEMIFY-0123",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "5ea896b88dea416db261900e231b1df01637064784",
+        "REACTION": "NC1=C(C(C)C)C=CC=C1C(C)C.O=CC=O>OC(C)=O>CC(C2=C(/N=C/C=N/C3=C(C(C)C)C=CC=C3C(C)C)C(C(C)C)=CC=C2)C",
+        "RXN_ID": "CHEMIFY-0124",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "d828e65a932f4d7c8f8558b124cffd261637064884",
+        "REACTION": "CC(C1=C(/N=C/C=N/C2=C(C(C)C)C=CC=C2C(C)C)C(C(C)C)=CC=C1)C.C=O>C[Si](C)(Cl)C>CC(C3=CC=CC(C(C)C)=C3[N+]4=CN(C5=C(C(C)C)C=CC=C5C(C)C)C=C4)C.[Cl-]",
+        "RXN_ID": "CHEMIFY-0125",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "36ad46908ee345348cad37264beb0d101637065228",
+        "REACTION": "ClC(C1=CC=C(C(F)(F)F)C=C1)=O.[NH3+]OCC2=CC=CC=C2.[Na]OC(C(C)(C)C)=O.[Cl-]>O=C(O[K])O[K].CC(C)(OCl)C>O=C(N(OC(C(C)(C)C)=O)OCC3=CC=CC=C3)C4=CC=C(C(F)(F)F)C=C4",
+        "RXN_ID": "CHEMIFY-0126",
+        "SCALE": null,
+        "yield": -1
+    },
+    {
+        "id": "6d131d2df5a34d4e9c9b2b82bd406e101637065286",
+        "REACTION": "BrC(C=C1)=CC=C1CNCC2=CC=C(Br)C=C2>O=C(N(OC(C(C)(C)C)=O)OCC3=CC=CC=C3)C4=CC=C(C(F)(F)F)C=C4>BrC(C=C5)=CC=C5CCC6=CC=C(Br)C=C6",
+        "RXN_ID": "CHEMIFY-0127",
+        "SCALE": null,
+        "yield": -1
+    }
+]

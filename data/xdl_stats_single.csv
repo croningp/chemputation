@@ -1,0 +1,3 @@
+,n_xdls,xdl_steps,n_steps,n_base_steps,base_operation_frequencies
+1,1,"[['AddSolid', 'Add', 'Add', 'Add', 'Add', 'HeatChill', 'HeatChillToTemp', 'Evaporate', 'HeatChillToTemp', 'Add', 'HeatChill', 'HeatChillToTemp', 'Add', 'Separate', 'Transfer', 'Transfer', 'Evaporate']]",[17],[203],"[{'ADD_ENERGY': 5, 'REMOVE_ENERGY': 0, 'ADD_MATTER': 9, 'REMOVE_MATTER': 3, 'IGNORE': 1}]"
+2,1,"[['Add', 'AddSolid', 'AddSolid', 'AddSolid', 'Stir', 'Add', 'Add', 'Separate', 'Separate', 'Separate', 'Separate', 'Separate', 'Evaporate']]",[13],[173],"[{'ADD_ENERGY': 1, 'REMOVE_ENERGY': 0, 'ADD_MATTER': 6, 'REMOVE_MATTER': 6, 'IGNORE': 0}]"
