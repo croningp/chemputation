@@ -7,10 +7,9 @@
 
 Chemputation reframes synthesis as the programmable execution of reaction code on a universally re-configurable hardware graph. Here we prove that a chemputer equipped with a finite, but extensible, set of reagents, catalysts and process conditions, together with a chempiler that maps reaction graphs onto hardware, is universal: it can generate any stable, isolable molecule in finite time and in analytically detectable quantity, provided real-time error correction keeps the per-step fidelity above the threshold set by the molecule's assembly index. The proof is constructed by casting the platform as a Chemical Synthesis Turing Machine (CSTM). The CSTM formalism supplies (i) an eight-tuple state definition that unifies reagents, process variables (including catalysts) and tape operations; (ii) the Universal Chemputation Principle; and (iii) a dynamic-error-correction routine ensuring fault tolerant execution. Linking this framework to assembly theory strengthens the definition of a molecule by demanding practical synthesizability and error correction becomes a prerequisite for universality. We validate the abstraction against >100 XDL programs executed on a modular chemputer rigs spanning single step to multi-step routes. Mapping each procedure onto CSTM shows that the cumulative number of unit operations grows linearly with synthetic depth. Together, these results elevate chemical synthesis to the status of a general computation: algorithms written in XDL are compiled to hardware, executed with closed-loop correction, and produce verifiable molecular outputs. By formalising chemistry in this way, the chemputer offers a path to shareable, executable chemical code, interoperable hardware ecosystems, and ultimately a searchable, provable atlas of chemical space. 
 
-<div align="center">
-  <video src="demo/SM1-chemputer_turing_animation.mp4"  type="video/mp4" controls="controls" style="max-width: 730px;">
-  </video>
-</div>
+
+https://github.com/user-attachments/assets/56f085b8-2dac-405b-90fa-28556664d904
+
 
 ## Data Availability
 
