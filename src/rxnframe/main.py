@@ -341,6 +341,7 @@ class RXN_frame:
                         "--virtual-time-budget=5000",
                         f"--print-to-pdf={pdf_path}",
                         "--print-to-pdf-no-header",
+                        "--no-pdf-header-footer",
                         "--no-margins",
                         html_url,
                     ]
@@ -356,7 +357,17 @@ class RXN_frame:
             # ── 3: pdfkit ────────────────────────────────────────────────────
             try:
                 import pdfkit
-                pdfkit.from_file(tmp_html, pdf_path)
+                pdfkit.from_file(
+                    tmp_html,
+                    pdf_path,
+                    options={
+                        "margin-top": "0",
+                        "margin-right": "0",
+                        "margin-bottom": "0",
+                        "margin-left": "0",
+                        "encoding": "UTF-8",
+                    },
+                )
                 if _is_valid_pdf(pdf_path):
                     print(f"PDF saved to {pdf_path}")
                     return
@@ -370,7 +381,8 @@ class RXN_frame:
             print(
                 f"Could not generate PDF automatically.\n"
                 f"HTML saved to: {html_out}\n"
-                "Open it in a browser and use File → Print → Save as PDF."
+                "Open it in a browser and use File → Print → Save as PDF, "
+                "with 'Headers and footers' turned off."
             )
         except Exception as e:
             print(f"Could not save PDF: {e}")
@@ -526,17 +538,25 @@ class RXN_frame:
                     if span == 0:
                         continue  # covered by a rowspan from above
                     val = "" if pd.isnull(row[col]) else row[col]
+                    extra_style = ""
+                    if col == "Yield":
+                        val = str(val).replace(" %", "&nbsp;%")
+                        extra_style = " white-space:nowrap;"
                     # rowspan cells always bottom-align with the group border
                     cells.append(
                         f'<td rowspan="{span}" style="background:{bg};'
                         f" vertical-align:middle; text-align:center;"
-                        f' {GROUP_SEP}">{val}</td>'
+                        f' {GROUP_SEP}{extra_style}">{val}</td>'
                     )
                 else:
                     val = "" if pd.isnull(row[col]) else row[col]
+                    extra_style = ""
+                    if col == "Yield":
+                        val = str(val).replace(" %", "&nbsp;%")
+                        extra_style = " white-space:nowrap;"
                     cells.append(
                         f'<td style="background:{bg}; vertical-align:middle;'
-                        f' text-align:center; {row_sep}">{val}</td>'
+                        f' text-align:center; {row_sep}{extra_style}">{val}</td>'
                     )
 
             for col in rxn_mol_cols:
